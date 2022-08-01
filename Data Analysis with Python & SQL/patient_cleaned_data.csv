@@ -1,0 +1,100 @@
+,Patient ID,Gender,Marital Status,City,State,Zip Code,Age,Procedure,status,shipped,Follow-up Attended
+0,11234,M,Married,Allison,CO,81137,62,Extraction,shipped,yes,Yes
+1,15620,F,Single,Allison,CO,81137,94,Extraction,shipped,yes,No
+2,19622,M,Divorced,Allison,CO,81137,90,Extraction,shipped,yes,No
+3,21829,F,Widowed,Allison,CO,81137,81,Crown,shipped,yes,No
+4,21962,F,Single,Allison,CO,81137,45,Extraction,shipped,yes,Yes
+5,26513,F,Partnership,Allison,CO,81137,43,Emergency Surgery,shipped,yes,Yes
+6,29489,M,Married,Allison,CO,81137,85,Crown,shipped,yes,No
+7,34918,T,Widowed,Allison,CO,81137,81,Extraction,shipped,yes,No
+8,34952,F,Single,Allison,CO,81137,35,Implant,shipped,yes,Yes
+9,35329,M,Widowed,Allison,CO,81137,86,Emergency Surgery,shipped,yes,No
+10,39606,F,Married,Allison,CO,81137,69,Extraction,shipped,yes,No
+11,40614,NC,Married,Allison,CO,81137,49,Crown,not shipped,no,No
+12,41371,F,Married,Allison,CO,81137,82,Crown,not shipped,no,No
+13,42305,M,Married,Southern Ute,CO,81137,57,Crown,not shipped,no,Yes
+14,43854,F,Married,Allison,CO,81137,72,Emergency Surgery,not shipped,no,Yes
+15,43891,F,Widowed,Allison,CO,81137,78,Extraction,not shipped,no,No
+16,44606,F,Divorced,Southern Ute,CO,81137,51,Crown,not shipped,no,No
+17,46218,M,Single,Allison,CO,81137,72,Extraction,not shipped,no,Yes
+18,47060,F,Widowed,Allison,CO,81137,90,Crown,not shipped,no,No
+19,47587,M,Married,Allison,CO,81137,71,Emergency Surgery,not shipped,no,No
+20,48482,F,Widowed,Allison,CO,81137,86,Extraction,not shipped,no,No
+21,49035,M,Single,Southern Ute,CO,81137,52,Extraction,not shipped,no,No
+22,51921,M,Single,Allison,CO,81137,82,Extraction,not shipped,no,No
+23,51959,T,Single,Southern Ute,CO,81137,66,Implant,not shipped,no,No
+24,52494,F,Divorced,Allison,CO,81137,47,Extraction,not shipped,no,No
+25,53110,M,Single,Southern Ute,CO,81137,43,Emergency Surgery,not shipped,no,No
+26,55725,F,Partnership,Southern Ute,CO,81137,34,Emergency Surgery,not shipped,no,Yes
+27,56884,M,Single,Southern Ute,CO,81137,38,Crown,not shipped,no,Yes
+28,58912,F,Divorced,Southern Ute,CO,81137,42,Extraction,not shipped,no,Yes
+29,60596,M,Widowed,Allison,CO,81137,79,Extraction,not shipped,no,No
+30,61921,F,Partnership,Southern Ute,CO,81137,70,Extraction,not shipped,no,No
+31,63936,M,Married,Allison,CO,81137,96,Implant,not shipped,no,No
+32,64868,F,Widowed,Allison,CO,81137,83,Implant,not shipped,no,No
+33,68643,F,Divorced,Allison,CO,81137,68,Extraction,not shipped,no,Yes
+34,69479,F,Divorced,Allison,CO,81137,25,Extraction,not shipped,no,Yes
+35,71946,F,Divorced,Allison,CO,81137,75,Extraction,not shipped,no,No
+36,72264,F,Divorced,Southern Ute,CO,81137,47,Extraction,not shipped,no,Yes
+37,73112,F,Widowed,Allison,CO,81137,89,Crown,not shipped,no,No
+38,73564,M,Widowed,Allison,CO,81137,78,Extraction,not shipped,no,No
+39,75025,F,Single,Southern Ute,CO,81137,30,Crown,not shipped,no,No
+40,75350,F,Married,Southern Ute,CO,81137,70,Extraction,not shipped,no,No
+41,76242,F,Married,Southern Ute,CO,81137,32,Extraction,not shipped,no,Yes
+42,80514,M,Divorced,Allison,CO,81137,74,Extraction,not shipped,no,No
+43,82530,M,Single,Southern Ute,CO,81137,25,Extraction,not shipped,no,Yes
+44,85807,F,Divorced,Allison,CO,81137,46,Implant,not shipped,no,Yes
+45,93916,M,Single,Allison,CO,81137,44,Extraction,not shipped,no,Yes
+46,94837,M,Single,Allison,CO,81137,54,Extraction,not shipped,no,Yes
+47,97170,NC,Divorced,Allison,CO,81137,76,Implant,not shipped,no,No
+48,98249,M,Single,Allison,CO,81137,62,Crown,not shipped,no,Yes
+49,98812,M,Single,Allison,CO,81137,93,Extraction,not shipped,no,No
+50,123775,T,Single,Allison,CO,81137,83,Extraction,not shipped,no,No
+51,124991,M,Single,Southern Ute,CO,81137,30,Crown,not shipped,no,Yes
+52,139014,F,Married,Southern Ute,CO,81137,50,Extraction,not shipped,no,Yes
+53,152926,F,Divorced,Southern Ute,CO,81137,34,Extraction,not shipped,no,No
+54,155033,M,Partnership,Allison,CO,81137,27,Crown,not shipped,no,Yes
+55,195910,F,Widowed,Allison,CO,81137,96,Extraction,not shipped,no,No
+56,203722,M,Widowed,Allison,CO,81137,84,Emergency Surgery,not shipped,no,Yes
+57,209390,F,Widowed,Allison,CO,81137,82,Crown,not shipped,no,No
+58,241715,F,Single,Southern Ute,CO,81137,52,Extraction,not shipped,no,Yes
+59,252754,F,Married,Allison,CO,81137,81,Crown,not shipped,no,Yes
+60,264637,F,Married,Southern Ute,CO,81137,24,Crown,not shipped,no,Yes
+61,288316,M,Married,Allison,CO,81137,83,Extraction,not shipped,no,No
+62,336825,F,Divorced,Allison,CO,81137,78,Extraction,not shipped,no,Yes
+63,343690,M,Single,Allison,CO,81137,36,Implant,not shipped,no,Yes
+64,386755,F,Single,Southern Ute,CO,81137,63,Extraction,not shipped,no,Yes
+65,387202,M,Widowed,Allison,CO,81137,97,Implant,not shipped,no,Yes
+66,423999,F,Married,Allison,CO,81137,80,Extraction,not shipped,no,No
+67,441218,M,Single,Allison,CO,81137,44,Veneers,not shipped,no,Yes
+68,441392,F,Partnership,Southern Ute,CO,81137,81,Crown,not shipped,no,No
+69,453944,M,Widowed,Allison,CO,81137,79,Implant,not shipped,no,Yes
+70,456589,F,Partnership,Allison,CO,81137,48,Extraction,not shipped,no,Yes
+71,483272,F,Divorced,Allison,CO,81137,64,Crown,not shipped,no,Yes
+72,487269,M,Widowed,Allison,CO,81137,88,Implant,not shipped,no,No
+73,517266,F,Married,Allison,CO,81137,85,Extraction,not shipped,no,No
+74,552159,M,Single,Southern Ute,CO,81137,40,Extraction,not shipped,no,Yes
+75,563422,M,Partnership,Allison,CO,81137,35,Extraction,not shipped,no,Yes
+76,564625,F,Widowed,Allison,CO,81137,85,Extraction,not shipped,no,No
+77,592579,M,Divorced,Allison,CO,81137,43,Implant,not shipped,no,Yes
+78,642523,M,Married,Allison,CO,81137,75,Extraction,not shipped,no,Yes
+79,659462,F,Widowed,Allison,CO,81137,71,Crown,not shipped,no,No
+80,708029,M,Divorced,Allison,CO,81137,84,Extraction,not shipped,no,Yes
+81,709760,F,Married,Allison,CO,81137,37,Extraction,not shipped,no,No
+82,727724,M,Married,Southern Ute,CO,81137,40,Extraction,not shipped,no,Yes
+83,737846,F,Divorced,Allison,CO,81137,47,Crown,not shipped,no,Yes
+84,761156,M,Married,Allison,CO,81137,68,Crown,not shipped,no,Yes
+85,764005,NC,Married,Allison,CO,81137,39,Implant,not shipped,no,Yes
+86,777142,F,Married,Allison,CO,81137,102,Extraction,not shipped,no,Yes
+87,782301,M,Married,Allison,CO,81137,95,Crown,not shipped,no,No
+88,795762,P,Divorced,Allison,CO,81137,63,Implant,not shipped,no,Yes
+89,798810,M,Widowed,Allison,CO,81137,69,Extraction,not shipped,no,No
+90,804094,F,Widowed,Allison,CO,81137,74,Extraction,not shipped,no,Yes
+91,823733,F,Married,Allison,CO,81137,38,Extraction,not shipped,no,Yes
+92,840298,M,Single,Southern Ute,CO,81137,57,Extraction,not shipped,no,Yes
+93,860962,M,Single,Southern Ute,CO,81137,71,Emergency Surgery,not shipped,no,No
+94,909853,T,Widowed,Allison,CO,81137,78,Extraction,not shipped,no,No
+95,915871,F,Partnership,Allison,CO,81137,36,Emergency Surgery,not shipped,no,Yes
+96,923490,M,Single,Allison,CO,81137,38,Extraction,not shipped,no,Yes
+97,934101,F,Single,Allison,CO,81137,39,Emergency Surgery,not shipped,no,Yes
+98,936597,M,Single,Allison,CO,81137,27,Extraction,not shipped,no,Yes
